@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.btn-primary{
+  background: yellow;
+}
+
+/* this is a comment */
+
+h2{
+  text-align: center;
+  font-weight: bold;
+}
+
+h1{
+  text-align: center;
+  color: blue;
+  font-weight: bold;
+}
